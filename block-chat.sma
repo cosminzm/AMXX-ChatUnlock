@@ -1,7 +1,7 @@
 #include <amxmodx>
 
 #define PLUGIN "Chat Unlock"
-#define VERSION "1.0"
+#define VERSION "1.00"
 #define AUTHOR "COSMIN"
 
 new bool:g_has_chat[33]; // salveaza starea fiecarui jucator
